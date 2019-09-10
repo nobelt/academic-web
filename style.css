@@ -48,10 +48,8 @@ td.lightNotes {
   font-size: 14px;
 }
 
-a.notes {
-  font-family: Arial;
-  font-weight: bold;
-  font-size: 14px;
+a.button {
+  background-color: none;
 }
 
 mark {
