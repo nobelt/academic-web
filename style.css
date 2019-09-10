@@ -48,8 +48,8 @@ td.lightNotes {
   font-size: 14px;
 }
 
-a.button {
-  background-color: none;
+.button a:hover{
+	background-color: none;
 }
 
 mark {
