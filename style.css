@@ -39,7 +39,7 @@ a {
   color: #000;
 }
 
-a:hover {
+a.mark:hover {
   background-color: yellow;
 }
 
@@ -52,7 +52,7 @@ a.button:hover{
 	background-color: none;
 }
 
-mark {
+a.unmark:hover {
   background-color: yellow;
 }
 
