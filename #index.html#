@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Nobel Truong</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Cormorant:300,300i&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="/assets/fav.png" type="image/x-icon">
+
+  </head>
+  <body>
+
+
+
+    <div class="container">
+      <div class="leftContent">
+        <h1 class=ch2>Nobel Truong<h1>
+         
+        <h1 class=ch2>Currently at Micron Technology. Previously at the University of California, Berkeley.<h1>
+      </div> 
+
+      <div class="rightContent">   <div class="block"><a name = "about"> <h1 class=ch><img src="/assets/profile.jpg" height="190" align=left style="padding-right:24px">Nobel Truong is an AI researcher currently interning at <a href="https://micron.com" class="mark" target="_blank">Micron Technology</a>. Her interests lie in knowledge representation, knowledge compilation, causal structures, and causal discovery. More broadly, she is researching methods in formal and informal hardware and software verification and automated reasoning. Recently, Truong worked on diagnosing behavioral inconsistencies in Bayesian network classifers at UCLA under the supervision of <a class="mark" href="http://web.cs.ucla.edu/~darwiche/" target="_blank">Adnan Darwiche</a>. Truong received her Bachelor's degree in philosophy from UC Berkeley where she was advised by <a class="mark" href="https://sites.google.com/berkeley.edu/johncampbell/home" target="_blank"> John Campbell</a>. Her undergraduate thesis was on employing causal structures as a formal framework for defining empathy. </h1>
+
+        <h1 class=ch>Truong's slides on computer science and other related topics can be found <a class="mark" href="https://study.nobeltruong.com" target="_blank"> here</a>. In a second life, Truong also maintains a small <a href="https://no-bel.com" class="mark" target="_blank">industrial design practice</a>.</h1>
+          </div>
+          
+
+      <DIV CLASS="BLOCK">
+<A NAME="LINKS"><P>        <A CLASS="MARK" HREF="HTTPS://STUDY.NOBELTRUONG.COM">STUDY.NOBELTRUONG.COM</A> - SLIDES AND TUTORIALS ON VARIOUS COMPUTER SCIENCE RELATED TOPICS<P>
+            <A CLASS="MARK" HREF="HTTPS://CO.NOBELTRUONG.COM">CO.NOBELTRUONG.COM</A> - PERSONAL BLOG ON SKIN AND HOME ORGANIZATION <P>
+                <A HREF="HTTPS://TECKTUR.COM" CLASS="MARK">TECHTUR.COM</A> - ARCHITECTURE PHOTOS TAKEN THROUGHOUT TRAVELS<P>
+                <A HREF="HTTPS://NO-BEL.COM" CLASS="MARK">NO-BEL.COM</A> - INDUSTRIAL DESIGN PRACTICE AND ONLINE STORE <P>
+                <A HREF="HTTPS://ITCOMPILEDYESTERDAY.COM" CLASS="MARK">ITCOMPILEDYESTERDAY.COM</A> - PERSONAL BLOG ON COMPUTER SCIENCE MISADVENTURES 
+          </DIV> 
+
+     SITE DESIGN BY NOBEL. ALL RIGHTS RESERVED. &COPY; <SCRIPT>DOCUMENT.WRITE(NEW DATE().GETFULLYEAR())</SCRIPT> NOBEL TRUONG.<P>
+        
+        <!-- <DIV CLASS="INSIDE">
+        Nobel Truong is a researcher in computer science at UCLA currently advised by <a href="http://web.cs.ucla.edu/~darwiche/">Adnan Darwiche</a>. Her interests lie in knowledge representation, knowledge compilation, causal structures, and causal discovery. Truong received her Bachelor's degree in philosophy from UC Berkeley where she was advised by John Campbell. Her undergraduate thesis was on causal structures and empathy. 
+        
+        <p>
+        Truong's slides on progamming and other related topics can be found <a href="http://study.nobeltruong.com"> here</a>. In a second life, Truong also maintains a small <a href="http://no-bel.com">industrial design practice</a>.
+        </div> -->
+      </div>
+    </div>
+
+
+    <div class="bottomNav">
+      <!-- <div class="navButton">Papers</div> -->
+<div class="navButton"><a class="button" href="#about" >About</a></div>
+      <div class="navButton"><a class="button" href="#papers" >Papers</a></div>
+<div class="navButton"><a class="button" href="https://study.nobeltruong.com" >Study</a></div> <div class="navButton"><a class="button" href="#links" >Links</a></div>     
+      <div class="navButton">nobel at berkeley.edu </div>
+    </div>
+
+
+
+  </body>
+</html>

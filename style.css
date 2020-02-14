@@ -81,6 +81,12 @@ ul.ideTextNC{
   left: 0;
 }
 
+.block {
+    height: 900px;
+    display: inline-block;
+}
+
+
 .halfToc {
   width: 47%;
   vertical-align: top;
@@ -166,13 +172,10 @@ table.topNav {
   right: 0;
 }
 
-.inside {
- /* padding-bottom: 70%; */
-}
-
 .bottomNav{
   position: fixed;
   bottom:5%;
+  width:50%;
   left:3%;
 }
 
@@ -181,7 +184,8 @@ table.topNav {
   font-weight: 300;
   font-size: 20px;
   line-height: 26px;
-  margin-right: 50px;
+  margin-right: 25px;
+  margin-top:35px;
   display: inline-block;
   padding: 5px;
   border-style: solid;
@@ -190,7 +194,7 @@ table.topNav {
 
 @media only screen and (max-width: 768px) {
   .container {
-    top: 15%;
+    top: 20%;
     display: flex; flex-flow: column; 
   }
 
@@ -198,13 +202,19 @@ table.topNav {
     display:none;
   }
 
-
+  
+  .block {
+      height:100%;
+      padding-bottom:20%;
+  }
+  
   .bottomNav{
     order: 1;
     position: relative;
     top:1%;
     margin-right: 0px;
     left:-1%;
+    width:100%;
   }
 
   .navButton{
@@ -247,7 +257,7 @@ table.topNav {
   .rightContent{
     position: relative;
     width:100%;
-    margin-top: 11px;
+    top: -20px;
     padding-right: 4%;
     padding-left: 4%;
     right: 0%;
@@ -255,7 +265,7 @@ table.topNav {
   }
 
   .notes {
-    padding-top:4%;
+    padding-top:3%;
     padding-left: 0;
     padding-right: 0;
     padding-bottom:100px;
